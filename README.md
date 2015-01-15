@@ -15,4 +15,3 @@ static-website-basic-src-v2
 `_data.json` は Jade コンパイル時に読み込まれ、変数の内容がコンパイル後の HTML に反映されます。
 
 assets/css/_utils.scss には spritesmith(<a href="https://github.com/Ensighten/grunt-spritesmith" target="_blank">grunt-spritesmith</a>, <a href="https://github.com/twolfson/gulp.spritesmith" target="_blank">gulp-spritesmith</a>) を使用する前提の mixin が含まれています。
-
