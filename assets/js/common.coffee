@@ -1,4 +1,4 @@
-project = window.project || {}
+window.project = window.project || {}
 
 class project.Common
   constructor: ->
